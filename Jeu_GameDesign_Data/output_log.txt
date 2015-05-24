@@ -1,0 +1,67 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\gbour_000\Documents\GitHub\CrazyBall\Jeu_GameDesign_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\gbour_000\Documents\GitHub\CrazyBall\Jeu_GameDesign_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\gbour_000\Documents\GitHub\CrazyBall\Jeu_GameDesign_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\gbour_000\Documents\GitHub\CrazyBall\Jeu_GameDesign_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\gbour_000\Documents\GitHub\CrazyBall\Jeu_GameDesign_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\gbour_000\Documents\GitHub\CrazyBall\Jeu_GameDesign_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.094 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\gbour_000\Documents\GitHub\CrazyBall\Jeu_GameDesign_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\gbour_000\Documents\GitHub\CrazyBall\Jeu_GameDesign_Data\Managed\System.dll (this message is harmless)
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 383)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1208 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.627225 ms
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 383)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 978.
+Total: 1.032358 ms (FindLiveObjects: 0.295937 ms CreateObjectMapping: 0.109907 ms MarkObjects: 0.610263 ms  DeleteObjects: 0.014112 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.170491 ms
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 383)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 978.
+Total: 0.470848 ms (FindLiveObjects: 0.079116 ms CreateObjectMapping: 0.035495 ms MarkObjects: 0.338275 ms  DeleteObjects: 0.016678 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.174340 ms
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 383)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 978.
+Total: 0.431931 ms (FindLiveObjects: 0.082109 ms CreateObjectMapping: 0.033784 ms MarkObjects: 0.300213 ms  DeleteObjects: 0.014540 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.127298 ms
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 383)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 978.
+Total: 0.472986 ms (FindLiveObjects: 0.078260 ms CreateObjectMapping: 0.036778 ms MarkObjects: 0.341268 ms  DeleteObjects: 0.015823 ms)
+

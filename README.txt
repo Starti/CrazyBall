@@ -5,7 +5,7 @@ Game: CrazyBall
 
 Hi,
 
-This is my project for the GameDesign. You can find all sources and a exe file "Jeu1.exe" to launch the game.
+This is my project for the GameDesign. You can find all sources and a exe file "Jeu_GameDesign.exe" to launch the game.
 
 Rules of the game:
 
