@@ -20,7 +20,7 @@ Malus: Speed -, Tp back, TP in front
 Useless: Change Color
 
 The bonus or malus are completly random. The player can't know the function of each cubes.
-We can find so many possibility of levels with this. But for this project only one level done.
+We can find so many possibility of levels with this. But for this project i have only done one level.
 
 I think i will continue this game. To finish totally the concept and the gamedesign of this one.
 
